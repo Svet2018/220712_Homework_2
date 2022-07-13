@@ -1,0 +1,15 @@
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/bin/Debug/net6.0/Task_15
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/bin/Debug/net6.0/Task_15.deps.json
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/bin/Debug/net6.0/Task_15.runtimeconfig.json
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/bin/Debug/net6.0/Task_15.dll
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/bin/Debug/net6.0/Task_15.pdb
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/obj/Debug/net6.0/Task_15.csproj.AssemblyReference.cache
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/obj/Debug/net6.0/Task_15.GeneratedMSBuildEditorConfig.editorconfig
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/obj/Debug/net6.0/Task_15.AssemblyInfoInputs.cache
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/obj/Debug/net6.0/Task_15.AssemblyInfo.cs
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/obj/Debug/net6.0/Task_15.csproj.CoreCompileInputs.cache
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/obj/Debug/net6.0/Task_15.dll
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/obj/Debug/net6.0/refint/Task_15.dll
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/obj/Debug/net6.0/Task_15.pdb
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/obj/Debug/net6.0/Task_15.genruntimeconfig.cache
+/home/svetlana/Рабочий стол/folder/220711_C_sharp/220712_Homework_2/Task_15/obj/Debug/net6.0/ref/Task_15.dll
