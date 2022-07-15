@@ -22,6 +22,13 @@ else
 */
 
 
+// 2 Решение задачи:
+
+Console.WriteLine("Введите в числовом виде день недели от 1 до 7: ");
+string num = Console.ReadLine();
+string[] weekDays= {"Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье"};
+
+int strLenght = num.Length;
 
 
 
