@@ -74,3 +74,28 @@ while (strLenght != 3)
 }
 
 */
+
+
+// 4 Решение задачи с использованием созданного метода SecondNum():
+
+void SecondNum(int num)
+{
+    string number = Convert.ToString(num);
+    int answer;
+    //answer = number.Substring(1, 1);
+    answer = Convert.ToInt32(number.Substring(1, 1));
+    if (number.Length != 3)
+    {
+        Console.WriteLine($"Было дано число - {num}, которое не является трехзначным числом. Но второй цифрой данного числа является - {answer}");
+    }
+    else
+    {
+        System.Console.WriteLine($"Было дано число трехзначное число - {num}, второй цифрой этого числа является - {answer}");
+    }    
+}
+
+SecondNum(23);
+SecondNum(231);
+SecondNum(398);
+SecondNum(98790);
+
